@@ -1,5 +1,9 @@
-language: bash
+language: smalltalk
+sudo: false
 
-script:
-  - bin/fetch-configlet
-  - bin/configlet .
+os:
+  - linux
+  - osx
+
+smalltalk:
+  - Pharo-6.0
