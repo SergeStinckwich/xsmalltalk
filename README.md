@@ -1,5 +1,7 @@
 # Exercism Smalltalk Track
 
+[![Build Status](https://travis-ci.org/SergeStinckwich/xsmalltalk.svg?branch=master)](https://travis-ci.org/SergeStinckwich/xsmalltalk)
+
 Exercism exercises in Smalltalk.
 
 ## TODO
